@@ -40,9 +40,9 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `nama`, `username`, `password`, `level`) VALUES
-(1, 'Rohana', 'hana', 'hana123', 'admin'),
-(2, 'Rohana2', 'hana2', 'hana123', 'siswa'),
-(3, 'Rohana3', 'hana3', 'hana123', 'operator');
+(1, 'Rohani', 'hani', 'hani123', 'admin'),
+(2, 'Rohani2', 'hani2', 'hani123', 'siswa'),
+(3, 'Rohani3', 'hani3', 'hani123', 'operator');
 
 --
 -- Indexes for dumped tables
